@@ -116,7 +116,6 @@ analysis, thinking "outside of the box", finding solutions under time pressure.<
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fEJ-Xg-PQn" secondAttribute="trailing" constant="16" id="510-K8-a4x"/>
                             <constraint firstItem="aid-Un-HsE" firstAttribute="top" secondItem="2x2-Ud-36W" secondAttribute="bottom" id="5A5-te-l5p"/>
                             <constraint firstItem="fEJ-Xg-PQn" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="D4b-0a-WWC"/>
-                            <constraint firstItem="fEJ-Xg-PQn" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="KmQ-we-oFQ"/>
                             <constraint firstItem="pNB-pS-6EH" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="LAc-6w-Hcu"/>
                             <constraint firstItem="2x2-Ud-36W" firstAttribute="top" secondItem="fEJ-Xg-PQn" secondAttribute="bottom" id="NqJ-34-d0Z"/>
                             <constraint firstItem="aid-Un-HsE" firstAttribute="top" secondItem="ZB6-vY-7ax" secondAttribute="bottom" id="O6M-Ka-aLs"/>
@@ -242,7 +241,6 @@ analysis, thinking "outside of the box", finding solutions under time pressure.<
                             <constraint firstItem="rVS-Bw-IY4" firstAttribute="top" secondItem="Tz2-Nv-kVW" secondAttribute="bottom" id="Pnk-Sl-u6X"/>
                             <constraint firstItem="kBj-Xc-jet" firstAttribute="leading" secondItem="5ik-Ja-cHl" secondAttribute="leading" constant="16" id="Tac-Lx-hpZ"/>
                             <constraint firstItem="5ik-Ja-cHl" firstAttribute="trailing" secondItem="Tz2-Nv-kVW" secondAttribute="trailing" constant="16" id="UQl-Qq-dzP"/>
-                            <constraint firstItem="Tz2-Nv-kVW" firstAttribute="top" secondItem="5ik-Ja-cHl" secondAttribute="top" id="Vny-zD-6W6"/>
                             <constraint firstItem="Tz2-Nv-kVW" firstAttribute="top" secondItem="5ik-Ja-cHl" secondAttribute="top" id="axd-SL-CPS"/>
                             <constraint firstItem="Cea-AF-rrk" firstAttribute="top" secondItem="9M8-qh-a1A" secondAttribute="bottom" id="b6r-4a-VZH"/>
                             <constraint firstItem="Cea-AF-rrk" firstAttribute="leading" secondItem="5ik-Ja-cHl" secondAttribute="leading" constant="16" id="bJz-VR-WyZ"/>
@@ -369,7 +367,6 @@ analysis, thinking "outside of the box", finding solutions under time pressure.<
                             <constraint firstItem="57e-uv-eaS" firstAttribute="leading" secondItem="vyc-W8-zrW" secondAttribute="trailing" constant="16" id="Nly-Oe-IWw"/>
                             <constraint firstItem="57e-uv-eaS" firstAttribute="top" secondItem="cvS-2N-c0p" secondAttribute="bottom" id="No4-bd-O25"/>
                             <constraint firstItem="ONd-68-ckS" firstAttribute="top" secondItem="jrr-Xc-Jpj" secondAttribute="bottom" id="Veu-rW-ZHA"/>
-                            <constraint firstItem="cvS-2N-c0p" firstAttribute="top" secondItem="oKX-IW-rrw" secondAttribute="top" id="Wfh-4V-f0l"/>
                             <constraint firstItem="oKX-IW-rrw" firstAttribute="trailing" secondItem="57e-uv-eaS" secondAttribute="trailing" constant="16" id="XeA-Be-vOs"/>
                             <constraint firstItem="cvS-2N-c0p" firstAttribute="top" secondItem="oKX-IW-rrw" secondAttribute="top" id="aNX-mp-fGS"/>
                             <constraint firstItem="jrr-Xc-Jpj" firstAttribute="top" secondItem="cvS-2N-c0p" secondAttribute="bottom" id="bSr-Zm-wRB"/>
@@ -491,7 +488,6 @@ analysis, thinking "outside of the box", finding solutions under time pressure.<
                             <constraint firstItem="gx3-dl-9Vf" firstAttribute="top" secondItem="kjt-Lk-kta" secondAttribute="bottom" id="5SF-IC-dgi"/>
                             <constraint firstItem="6xJ-Yg-eEl" firstAttribute="top" secondItem="OZ7-rl-pRe" secondAttribute="bottom" id="5tt-y8-Aoh"/>
                             <constraint firstItem="OZ7-rl-pRe" firstAttribute="leading" secondItem="v5p-wL-lta" secondAttribute="leading" constant="16" id="BNf-6i-Jdz"/>
-                            <constraint firstItem="OZ7-rl-pRe" firstAttribute="top" secondItem="v5p-wL-lta" secondAttribute="top" id="Krv-ts-UFe"/>
                             <constraint firstItem="v5p-wL-lta" firstAttribute="trailing" secondItem="6xJ-Yg-eEl" secondAttribute="trailing" constant="16" id="O8I-Dt-H9P"/>
                             <constraint firstItem="v5p-wL-lta" firstAttribute="trailing" secondItem="gx3-dl-9Vf" secondAttribute="trailing" constant="16" id="QmH-kV-4tr"/>
                             <constraint firstItem="hTI-IJ-jLb" firstAttribute="width" secondItem="kjt-Lk-kta" secondAttribute="width" id="SQB-A7-wyI"/>
@@ -518,8 +514,8 @@ analysis, thinking "outside of the box", finding solutions under time pressure.<
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="dkM-3l-oN5"/>
-        <segue reference="GYf-m3-kPG"/>
-        <segue reference="pUv-zU-akL"/>
-        <segue reference="xCR-zI-fni"/>
+        <segue reference="X7n-5t-Ifi"/>
+        <segue reference="5Uf-hg-W86"/>
+        <segue reference="Goj-UW-IrA"/>
     </inferredMetricsTieBreakers>
 </document>
